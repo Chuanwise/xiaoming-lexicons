@@ -1,0 +1,7 @@
+{
+  "@class": "com.chuanwise.xiaoming.core.plugin.PluginPropertyImpl",
+  "name": "lexicons",
+  "main": "com.chuanwise.xiaoming.lexicons.LexiconPlugin",
+  "author": "Chuanwise",
+  "version": "1.0"
+}
